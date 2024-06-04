@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/OxiBook/static/css/main.a5d407b3.css",
+    "main.js": "/OxiBook/static/js/main.543354a1.js",
+    "static/js/787.8fa4e7a5.chunk.js": "/OxiBook/static/js/787.8fa4e7a5.chunk.js",
+    "static/media/slider3.png": "/OxiBook/static/media/slider3.996c32effa854a478fcf.png",
+    "static/media/slider1.png": "/OxiBook/static/media/slider1.2e91818f2c171849c3ca.png",
+    "static/media/slider2.png": "/OxiBook/static/media/slider2.7babc6cb40bfdfc32dc3.png",
+    "static/media/contactus.png": "/OxiBook/static/media/contactus.baa833c1dfe006815630.png",
+    "static/media/myPic.png": "/OxiBook/static/media/myPic.11021135e49744579bd3.png",
+    "static/media/offer3.png": "/OxiBook/static/media/offer3.79fe801bb0924970e2bd.png",
+    "static/media/book.png": "/OxiBook/static/media/book.759e2a7fa6c082a9419d.png",
+    "static/media/offer2.png": "/OxiBook/static/media/offer2.f2bfff85811b03e56a8d.png",
+    "static/media/excl1.png": "/OxiBook/static/media/excl1.caa88c338872cba1dfbf.png",
+    "static/media/offer1.png": "/OxiBook/static/media/offer1.2d174de2f3952320f271.png",
+    "static/media/excl5.png": "/OxiBook/static/media/excl5.1c7433e9dbe619bcfe2f.png",
+    "static/media/excl2.png": "/OxiBook/static/media/excl2.42957a81cb44b1924c98.png",
+    "static/media/12.png": "/OxiBook/static/media/12.5d830bc702fcf8c3d2e2.png",
+    "static/media/9.png": "/OxiBook/static/media/9.874d6b00df7d2807ef00.png",
+    "static/media/3.png": "/OxiBook/static/media/3.8d4cf86467d11e576c4a.png",
+    "static/media/1.png": "/OxiBook/static/media/1.3becbd8aca93f87a5202.png",
+    "static/media/6.png": "/OxiBook/static/media/6.f96130c84dd1f55a59e3.png",
+    "static/media/8.png": "/OxiBook/static/media/8.9c347938ad8382f962d4.png",
+    "static/media/2.png": "/OxiBook/static/media/2.018f9b6adda521b28e0c.png",
+    "static/media/7.png": "/OxiBook/static/media/7.02286e62ea9d628a4c27.png",
+    "static/media/5.png": "/OxiBook/static/media/5.8f620f919e8f67881d16.png",
+    "static/media/4.png": "/OxiBook/static/media/4.63b5ef93ff1727aa8e6c.png",
+    "static/media/10.png": "/OxiBook/static/media/10.ff0f8b7675d205200cd7.png",
+    "static/media/11.png": "/OxiBook/static/media/11.0f05667d7d26cbb0a1b1.png",
+    "static/media/logo.png": "/OxiBook/static/media/logo.9de6a4b0851075cd474c.png",
+    "index.html": "/OxiBook/index.html",
+    "main.a5d407b3.css.map": "/OxiBook/static/css/main.a5d407b3.css.map",
+    "main.543354a1.js.map": "/OxiBook/static/js/main.543354a1.js.map",
+    "787.8fa4e7a5.chunk.js.map": "/OxiBook/static/js/787.8fa4e7a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5d407b3.css",
+    "static/js/main.543354a1.js"
+  ]
+}
